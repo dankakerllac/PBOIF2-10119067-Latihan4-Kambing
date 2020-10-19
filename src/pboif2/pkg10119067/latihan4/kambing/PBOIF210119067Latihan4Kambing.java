@@ -13,7 +13,8 @@ package pboif2.pkg10119067.latihan2.deklarasivariabel;
  * NIM      : 10119067
  * Deskripsi Program : Deklarasi & Pengaksesan
  */
-public class PBOIF210119067Latihan1Biodata 
+public class PBOIF210119067 {
+
  public void tambahKambing() {
         // Deklarasi variabel lokal
         int jumlahKambing = 0;
